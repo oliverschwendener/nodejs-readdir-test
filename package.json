@@ -1,0 +1,14 @@
+{
+    "name": "electron-readdir-fs-bug",
+    "description": "Repository to reproduce fs.readdir bug",
+    "version": "0.0.0",
+    "main": "main.js",
+    "author": {
+        "email": "oliver.schwendener@proton.me",
+        "name": "Oliver Schwendener",
+        "url": "https://github.com/oliverschwendener"
+    },
+    "dependencies": {
+        "electron": "31.0.0-alpha.3"
+    }
+}
