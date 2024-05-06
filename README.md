@@ -1,6 +1,6 @@
 # fs.readdir test
 
-This is a repository to reproduce a bug with node's `fs.readdir`.
+This is a repository to reproduce a bug when using `fs.readdir` in Electron on Windows.
 
 ## How to reproduce
 
